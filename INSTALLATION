@@ -1,0 +1,7 @@
+## Installation
+Clone the repository:
+bash
+git clone https://github.com/your-username/driver-drowsiness-monitoring.git
+cd driver-drowsiness-monitoring
+Download the shape_predictor_68_face_landmarks.dat file from this link https://github.com/davisking/dlib-models and place it in the resources/ directory.
+Place your alert sound file (music.wav) in the resources/ directory.
